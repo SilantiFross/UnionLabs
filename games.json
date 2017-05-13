@@ -1,0 +1,62 @@
+ [
+  {
+  "name": "The Witcher 3: Wild Hunt",
+  "image": "witcher3",
+  "desc": "The Witcher 3: Wild Hunt is an action role-playing game set in an open world environment which is more than thirty times larger than previous Witcher games, necessitating players sail by boat to some locations and ride on horseback to others. Fast traveling to already-visited locations, however, is also possible."
+  },
+  {
+  "name": "BioShock Infinite",
+  "image": "bioshock",
+  "desc": "Like BioShock and BioShock 2, BioShock Infinite is a first-person shooter with role-playing elements. In contrast to the limited spaces of Rapture in previous BioShock games, the expanded environment of Columbia provides for more dynamic combat challenges in Infinite. As Booker, the player must fight their way through Columbia using weapons and a variety of tools in order to complete objectives. The player may carry only two weapons at a time, and can collect other weapons and ammunition either from defeated enemies or from random locations around the city."
+  },
+  {
+  "name": "The Walking Dead",
+  "image": "walkink_dead",
+  "desc": "The Walking Dead is a graphic adventure, played from a third-person perspective with a variety of cinematic camera angles, in which the player, as protagonist Lee Everett, works with a rag-tag group of survivors to stay alive in the midst of a zombie apocalypse."
+  },
+  {
+  "name": "The Banner Saga",
+  "image": "banner",
+  "desc": "The core of the game is a single-player campaign of turn-based combat engagements inspired by games such as Final Fantasy Tactics and Shining Force, with the player controlling and being able to build up a party of characters with complementing abilities."
+  },
+  {
+  "name": "Fallout 3",
+  "image": "fallout3",
+  "desc": "Unlike previous titles of the series, Fallout 3 is played from the first-person perspective, as with other titles by Bethesda, though players have the option to switch between this and an \"over-the-shoulder\" third-person perspective at any time after the initial stages of the game. While many elements from previous titles are used, such as the SPECIAL system, and the enemies encountered, combat is played out differently, while new features are included into the series."
+  },
+  {
+  "name": "Mirror's Edge",
+  "image": "mirrors",
+  "desc": "In Mirror's Edge, the player controls the protagonist, Faith, from a first-person perspective as she is challenged to navigate across a gleaming city by jumping between rooftops, running across walls, and gaining access to buildings through ventilation shafts. This is accomplished by use of techniques and movements inspired by the discipline of parkour."
+  },
+  {
+  "name": "Magicka",
+  "image": "magicka",
+  "desc": "Magicka is an action-adventure game played in a 3D environment from an isometric perspective. A single player or up to four simultaneous cooperative players take on the roles of wizards tasked with stopping an evil sorcerer that has thrown the world into a state of turmoil. The main adventure campaign consists of 13 levels."
+  },
+  {
+  "name": "Fallout 4",
+  "image": "fallout4",
+  "desc": "Fallout 4's gameplay is similar to that of Fallout 3 and Fallout: New Vegas, the previous two main entries in the series. Returning features include a camera that can switch between a first-person and third-person perspective, and the ability to roam anywhere on the map. Fallout 4 introduces new features including a layered armor system, base-building, a dynamic dialogue system featuring 111,000 lines of dialogue, an in-depth crafting system which implements every lootable object in the game, and much more. Enemies such as mole rats, raiders, super-mutants, deathclaws, and feral ghouls return in Fallout 4, along with the companion Dogmeat."
+  },
+  {
+  "name": "Hitman Absolution",
+  "image": "hitman",
+  "desc": "Hitman: Absolution is a stealth video game in which the player assumes the role of a hitman named Agent 47. Presented from a third-person perspective, the gameplay centers around completing set objectives within a series of levels. Objectives can range from simply reaching the end of the level, to killing specific individuals. Players choose how to complete each level, taking branching paths to get to a target or location. Players may use pistols, bottles or bricks, assault rifles, shotguns, fiber-wire, or steel pipe against enemies if opting for the action-oriented approach, or avoid enemies altogether, not being seen, using disguises, blending into the environment, and only attacking the set target(s), if using the stealth-oriented approach. Agent 47 also has the 'Instinct' ability that lets the player monitor enemies more easily."
+  },
+  {
+  "name": "The Legend of Zelda",
+  "image": "zelda",
+  "desc": "The Legend of Zelda games feature a mixture of puzzles, action, adventure/battle gameplay, and exploration. These elements have remained constant throughout the series, but with refinements and additions featured in each new game. Later games in the series also include stealth gameplay, where the player must avoid enemies while proceeding through a level, as well as racing elements. Although the games can be beaten with a minimal amount of exploration and side quests, the player is frequently rewarded with helpful items or increased abilities for solving puzzles or exploring hidden areas."
+  },
+  {
+  "name": "Portal",
+  "image": "portal",
+  "desc": "In Portal, the player controls the protagonist, Chell, from a first-person perspective as she is challenged to navigate through a series of rooms using the Aperture Science Handheld Portal Device, or portal gun, under the watchful supervision of the artificial intelligence GLaDOS. The portal gun can create two distinct portal ends, orange and blue. The portals create a visual and physical connection between two different locations in three-dimensional space. Neither end is specifically an entrance or exit; all objects that travel through one portal will exit through the other. An important aspect of the game's physics is momentum redirection."
+  },
+  {
+  "name": "Half-Life 2",
+  "image": "halflife2",
+  "desc": "Like its predecessor, Half-Life 2 is a single-player first-person shooter broken into several chapters, permanently casting the player as the protagonist Gordon Freeman. The sequel has nearly the same mechanics as Half-Life, including health-and-weapon systems and periodic physics puzzles, except with the newer Source Engine and improved graphics. The player also starts without items, slowly building up an arsenal over the course of the game. Despite the game's mainly linear nature, much effort was put into making exploration rewarding and interesting; many optional areas can be missed or avoided."
+  }
+]
